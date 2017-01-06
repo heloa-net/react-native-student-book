@@ -1,4 +1,4 @@
-# ⚛ react-native-student-book 📒
+#  react-native-student-book ⚛
 Resources for the React Native student
 
 ##Layout
