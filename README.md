@@ -21,3 +21,4 @@ Resources for the React Native student
 - [Awesome React Native](https://github.com/jondot/awesome-react-native)
 - [Native Base blog](https://blog.nativebase.io/)
 - [#1 React Native online meetup](https://www.youtube.com/watch?v=6dek2apWWZA)
+- [React/Redux… Where Do You Start?](https://medium.com/mofed/react-redux-where-do-you-start-500c98413d1f)
