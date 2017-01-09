@@ -1,8 +1,8 @@
 #  react-native-student-book ⚛
 Resources for the React Native student
 
-##Layout
-###Design and Style
+##UX/UI/Design
+###Layout
 - [React Native Katas](https://github.com/jondot/ReactNativeKatas)
 
 ###Flexbox concepts
@@ -21,6 +21,7 @@ Resources for the React Native student
 - [React Training](https://reacttraining.com/online)
 - [React Basics](https://teamtreehouse.com/library/react-basics)
 - [Introducing React StoryBook](https://voice.kadira.io/introducing-react-storybook-ec27f28de1e2)
+- [React.JS Top 10 Articles of The Year (v.2017)](https://medium.mybridge.co/react-js-top-10-articles-of-the-year-v-2017-e95092964e49)
 
 ### React and Redux
 - [Using (Redux) with React](http://devguides.io/redux/react)
@@ -29,5 +30,6 @@ Resources for the React Native student
 ## More resources
 - [Awesome React Native](https://github.com/jondot/awesome-react-native)
 - [Learning Path React Native](https://medium.com/@sibelius/learning-path-react-native-5a97e9ce8c52)
+- [React Native Training](https://medium.com/react-native-training)
 - [Native Base blog](https://blog.nativebase.io/)
 - [#1 React Native online meetup](https://www.youtube.com/watch?v=6dek2apWWZA)
