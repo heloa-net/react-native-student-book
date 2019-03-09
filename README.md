@@ -28,6 +28,8 @@ Resources for the React Native student
 - [React/Redux… Where Do You Start?](https://medium.com/mofed/react-redux-where-do-you-start-500c98413d1f)
 
 ## More resources
+- [Roadmap React Native Developer](https://alligator.io/react/roadmap-react-native-developer/) by **Alligator.io**
+- [React Native Training Book](https://github.com/unbug/react-native-train) by **@unbug**
 - [Awesome React Native](https://github.com/jondot/awesome-react-native)
 - [Learning Path React Native](https://medium.com/@sibelius/learning-path-react-native-5a97e9ce8c52)
 - [React Native Training](https://medium.com/react-native-training)
