@@ -24,6 +24,7 @@ Resources for the React Native student
 - [React.JS Top 10 Articles of The Year (v.2017)](https://medium.mybridge.co/react-js-top-10-articles-of-the-year-v-2017-e95092964e49)
 
 ### React and Redux
+- [React/Redux Links](https://github.com/markerikson/react-redux-links)
 - [Using (Redux) with React](http://devguides.io/redux/react)
 - [React/Redux… Where Do You Start?](https://medium.com/mofed/react-redux-where-do-you-start-500c98413d1f)
 
